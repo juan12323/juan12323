@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juan12323
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on videogames
 - 📫 How to reach me 
 
 <!---
